@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Navertica.Services.NVRLocalFSService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RootPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{some folder to limit access too}</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{yourusername}</Value>
+    </Setting>
+    <Setting Name="Pwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{yourpassword}</Value>
+    </Setting>
+    <Setting Name="RelayNameSpace" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{your relay namespace name}</Value>
+    </Setting>
+    <Setting Name="RelayServicePrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{prefix to be used in the relay URL}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

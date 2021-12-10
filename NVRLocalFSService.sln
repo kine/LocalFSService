@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NVRLocalFSService", "NVRLocalFSService.csproj", "{327E24B0-820D-456E-A666-790FB8D0CC3D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NVRLocalFSServiceInstaller", "NVRLocalFSServiceInstaller\NVRLocalFSServiceInstaller.vdproj", "{6F574FF8-1270-4BB8-AB41-5B78A183280E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327E24B0-820D-456E-A666-790FB8D0CC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327E24B0-820D-456E-A666-790FB8D0CC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327E24B0-820D-456E-A666-790FB8D0CC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327E24B0-820D-456E-A666-790FB8D0CC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F574FF8-1270-4BB8-AB41-5B78A183280E}.Debug|Any CPU.ActiveCfg = Debug
+		{6F574FF8-1270-4BB8-AB41-5B78A183280E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA18383-D7FF-4902-AC0E-6BFE9DA580B3}
+	EndGlobalSection
+EndGlobal
