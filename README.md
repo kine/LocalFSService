@@ -16,7 +16,9 @@ After cloning, you need to:
 
 
 Service will be available on this URL:
+
 http://Localhost:8787
+
 https://{RelayNameSpace}.servicebus.windows.net/{RelayServicePrefix}/{computername}.{domainname}
 
 Authorization: basic, use the User and Pwd you set in the config file
